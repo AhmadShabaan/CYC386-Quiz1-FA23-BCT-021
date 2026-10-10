@@ -1,0 +1,3 @@
+Validate and sanitize all input.
+Apply the principle of least privilege.
+Manage secrets and sensitive data properly.
